@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/1fd90ec9-2166-4fe2-ae5e-bdb9892f9a0f)
+
+
 ### Problem Statement
 
 The well-being and academic success of students are significantly influenced by multiple lifestyle and psychological factors including sleep, study patterns, academic pressure, and financial stress. Understanding the relationships among these variables can help institutions design more student-centric policies to enhance academic satisfaction and performance.
