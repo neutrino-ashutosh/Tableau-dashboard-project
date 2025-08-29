@@ -78,7 +78,7 @@ These visualizations help derive actionable insights into student well-being.
 
 ## 📮 Contribution & Feedback
 
-Feel free to fork, modify, or contribute to the project. For any suggestions or feedback, raise an issue or connect via [your email/contact here].
+Feel free to fork, modify, or contribute to the project. For any suggestions or feedback, raise an issue or connect via [neutrino.ashutosh@gmail.com].
 
 ---
 
